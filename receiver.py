@@ -7,7 +7,7 @@ threadCount = 0
 
 HOST = '128.199.16.74'
 #HOST = '127.0.0.1'
-PORT = 4589
+PORT = 4590
 
 s = MLSocket()
 s.connect((HOST, PORT))
